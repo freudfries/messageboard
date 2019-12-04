@@ -4,8 +4,13 @@
   "description": "messageboard study",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "start-dev": "nodemon start:dev index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.7.9",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.1"
+  }
 }
