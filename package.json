@@ -1,0 +1,11 @@
+{
+  "name": "messageboard",
+  "version": "1.0.0",
+  "description": "messageboard study",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
